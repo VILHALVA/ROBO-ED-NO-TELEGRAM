@@ -89,7 +89,7 @@ Por padrão, eu configurei o arquivo "CONFIG.json" com as seguintes configuraç�
 ```json
 {
     "SEMPRE": "ON",
-    "CRIAR": "OFF",
+    "CRIAR": "ON",
     "ERRO": "ON"
 }
 ```
@@ -99,8 +99,8 @@ Significa o seguinte:
 - **SEMPRE: "ON"**
   - Isso significa que o bot estará sempre pronto para responder a qualquer mensagem que receber no grupo, Mesmo que o user dele não seja mencionado.
 
-- **CRIAR: "OFF"**
-  - Com esta configuração, os usuários não poderão adicionar novas respostas ao banco de dados do bot. Isso significa que apenas as respostas pré-definidas no arquivo "WORD.json" serão reconhecidas e respondidas pelo bot.
+- **CRIAR: "ON"**
+  - Com esta configuração, os usuários poderão adicionar novas respostas ao banco de dados do bot.
 
 - **ERRO: "ON"**
   - Isso indica que o bot está configurado para enviar uma mensagem de erro quando não entender a mensagem do usuário.

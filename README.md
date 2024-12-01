@@ -117,5 +117,4 @@ Essas configurações permitem controlar o comportamento do bot de acordo com su
 
 ## CREDITOS:
 - [PROJETO BASEADO NO "CONVERSADOR NO TELEGRAM"](https://github.com/VILHALVA/CONVERSADOR-NO-TELEGRAM)
-- [ACESSE AO BOT NO TELEGRAM](https://t.me/ROBO_ED_BOT)
 - [PROJETO FEITO PELO VILHALVA](https://github.com/VILHALVA)

@@ -68,7 +68,7 @@ def handle_error_mode(message):
 def get_start_markup():
     markup = telebot.types.InlineKeyboardMarkup()
     button1 = telebot.types.InlineKeyboardButton(text="🧑‍💻CRIADOR", url="https://t.me/VILHALVA100")
-    button2 = telebot.types.InlineKeyboardButton(text="📢CANAL", url="https://t.me/VILHALVA100_CANAL")
+    button2 = telebot.types.InlineKeyboardButton(text="📢CANAL", url="https://t.me/VILHALVA100_OFICIAL")
     markup.add(button1, button2)
     return markup
 
